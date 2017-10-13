@@ -1,0 +1,8 @@
+/node_modules
+node_modules/**/*
+.expo/*
+npm-debug.*
+coverage
+.idea/*
+.idea/vcs.xml
+.DS_Store

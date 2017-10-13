@@ -1,0 +1,33 @@
+{
+  "name": "react-native-action-picker",
+  "version": "1.0.0",
+  "description": "Action sheet with native-like design for iOS and Android.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheSingularFactory/react-native-action-picker"
+  },
+  "keywords": [
+    "react-native",
+    "action",
+    "sheet",
+    "picker",
+    "options",
+    "select"
+  ],
+  "peerDependencies": {
+    "react-native": ">=0.11"
+  },
+  "author": "Enrique Martín",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheSingularFactory/react-native-action-picker/issues"
+  },
+  "homepage": "https://github.com/TheSingularFactory/react-native-action-picker",
+  "dependencies": {
+    "prop-types": "^15.5.10"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "name": "react-native-action-picker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Action sheet with native-like design for iOS and Android.",
   "main": "index.js",
   "scripts": {

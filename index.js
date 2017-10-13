@@ -1,1 +1,1 @@
-export * from './ActionPicker';
+export {ActionPicker} from './lib'
